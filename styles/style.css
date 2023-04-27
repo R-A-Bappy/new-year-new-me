@@ -181,7 +181,7 @@
     margin-bottom: 20px;
 }
 
-.footer-right .email::placeholder {
+.footer-right .email {
     color: #fff;
     padding: 10px;
     font-size: 18px;
